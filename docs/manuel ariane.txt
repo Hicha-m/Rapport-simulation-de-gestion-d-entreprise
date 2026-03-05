@@ -1,0 +1,809 @@
+Ariane
+Manuel du participant
+Table des Matières
+1
+ - LES PRODUITS ................................................................................................................................................. 4
+1.1
+ Le produit actuel : “SKI ÉLITE” ......................................................................................................... 4
+1.2
+ Le produit SKI 2000 ................................................................................................................................ 4
+1.3
+ Le produit “RAQUETTE +”..................................................................................................................... 5
+2
+ - MARKETING ET DISTRIBUTION ............................................................................................................... 6
+2.1
+ Le réseau de distribution de vos produits. ................................................................................... 6
+2.2
+ La force de vente ....................................................................................................................................... 7
+2.3
+ Engagement / licenciement des vendeurs ..................................................................................... 7
+2.4
+ Publicité ........................................................................................................................................................ 7
+2.5
+ Etudes de marché ..................................................................................................................................... 8
+3
+ - PRODUCTION .................................................................................................................................................... 9
+3.1
+ Les matières premières .......................................................................................................................... 9
+3.2
+ Approvisionnement en matières premières .................................................................................. 9
+3.3
+ Substitution entre les matières premières et qualité des produits .................................. 9
+3.4
+ Rupture de stock de matières premières ..................................................................................... 10
+3.5
+ Rupture de stocks de produits finis .............................................................................................. 11
+3.6
+ Le matériel de production .................................................................................................................. 11
+3.7
+ Valeur et acquisition des chaînes MX et MY .............................................................................. 12
+3.8
+ Revente des chaînes MX ....................................................................................................................... 12
+3.9
+ Capacité de production et utilisation des chaînes MX et MY ............................................ 12
+3.10
+ Le personnel direct de production ............................................................................................. 14
+3.11
+ Les ouvriers permanents ................................................................................................................. 14
+3.12
+ Rémunérations, niveau d'activité et personnel intérimaire ........................................... 14
+3.13
+ Embauche et licenciement des ouvriers permanents ........................................................ 15
+3.14
+ Cadres et agents de maîtrise de production ......................................................................... 15
+3.15
+ Charges salariales et congés payés .......................................................................................... 16
+3.16
+ Les coûts variables de production et la R&D........................................................................ 16
+3.17
+ Méthode d'évaluation des stocks................................................................................................. 17
+3.18
+ Stocks de produits finis .................................................................................................................. 17
+2
+ Gambini Raymond et Tixier Daniel
+4
+ - LES FINANCES ................................................................................................................................................ 18
+4.1
+ Situation au début du jeu ................................................................................................................... 18
+4.2
+ Modalités d'obtention d'un emprunt à court terme................................................................. 18
+4.3
+ Modalités d'escompte des créances clients................................................................................. 18
+4.4
+ Modalités d'obtention d'un modalité d'obtention d'un emprunt à LT ............................. 19
+4.5
+ Modalités du découvert ........................................................................................................................ 19
+4.6
+ Modification des taux d'intérêt sur emprunt............................................................................. 20
+4.7
+ Placements à court terme - Bons de caisse................................................................................. 20
+4.8
+ Calcul et paiement de l'impôt sur les bénéfices ....................................................................... 20
+4.9
+ Distribution des dividendes ............................................................................................................... 20
+4.10
+ L'administration ................................................................................................................................. 21
+5
+ - ANNEXE 1 ......................................................................................................................................................... 22
+5.1
+ Caractéristiques générales de la demande des produits “Ski Elite” et “Ski 2000”
+22
+5.2
+ Marché du produit “Raquette +”...................................................................................................... 23
+5.3
+ L'élasticité .................................................................................................................................................. 23
+5.4
+ Lancement des nouveaux produits ................................................................................................. 23
+6
+ - ANNEXE 2 ......................................................................................................................................................... 25
+3
+ Gambini Raymond et Tixier Daniel
+1 - LES PRODUITS
+1.1 Le produit actuel : “SKI ÉLITE”
+En période 0, début du jeu, votre entreprise, comme les firmes concurrentes,
+fabrique et vend un seul produit : le produit “Ski élite”.
+Ce produit est un bien d'équipement individuel destiné à la pratique des sports
+d'hiver. Sa technologie de fabrication actuelle, reposant sur l'utilisation d'une
+matière principale, la fibre, à raison de 80 % et de la matière première résine à
+raison de 20 %, permet de le considérer comme un produit relativement cher,
+destiné à une clientèle finale aisée.
+Des observations statistiques précises ont permis de déterminer la saisonnalité
+annuelle des ventes de ce produit :
+N° période
+ T-3/T1/T5…
+ T-2/T2/T6…
+ T-1/T3/T7…
+ T0/T4/T8…
+% ventes
+ 20
+ 40
+ 25
+ 15
+annuelles
+(T1 étant la première période de jeu suivant votre arrivée à la direction de
+l'entreprise).
+Au trimestre 0, votre firme a vendu 137 795 unités de “Ski élite”, au prix de
+vente unitaire de 200 Euros.
+1.2 Le produit SKI 2000
+De récents progrès techniques permettent la fabrication d'un deuxième
+produit, “Ski 2000”, remplissant exactement les mêmes fonctions que “Ski
+élite”, mais obtenu à partir de combinaisons différentes des matières
+premières. “Ski 2000” peut en effet être produit avec n'importe quelle
+combinaison de fibre et résine (y compris celle excluant entièrement la fibre ou
+entièrement la résine), ce qui permet d'envisager des prix de revient totaux du
+produit “Ski 2000” très différents de ceux de “Ski élite”. Bien entendu, la
+saisonnalité des ventes de “Ski 2000” est identique à celle de “Ski élite”.
+“Ski 2000” n'est actuellement fabriqué par aucune entreprise. Rien cependant
+ne s'oppose à son lancement puisqu'il nécessite le même équipement de
+fabrication que “Ski élite” (les machines MX), les mêmes qualifications de main
+4
+ Gambini Raymond et Tixier Daniel
+d'œuvre et le même réseau de distribution.
+1.3 Le produit “RAQUETTE +”
+Pour lutter contre la saisonnalité des skis qui pose régulièrement des
+problèmes de financement à court terme, des représentants de votre industrie
+ont étudié la possibilité de fabriquer un produit susceptible d'utiliser les
+qualifications du personnel existant et présentant des ventes saisonnières
+inverses de celles des produits “Ski élite” et “Ski 2000”. Cette recherche
+implique notamment que le réseau de distribution de ce nouveau produit soit
+le même et que sa technologie de fabrication soit voisine de celle des skis.
+Dans les dernières années, le souci de performance chez les amateurs des
+sports de la raquette a entraîné le développement expérimental d'un produit
+“Raquette +” construit à partir des mêmes matières (fibre et résine) que celles
+destinées aux produits de skis. Le produit “Raquette +” est maintenant au
+point et son développement ayant été assuré par le syndicat professionnel,
+toutes les firmes sont susceptibles de le lancer à leur convenance. Le syndicat
+a pu déterminer que la saisonnalité de ce produit serait stable et se
+présenterait de la manière suivante pour les mêmes trimestres.
+N° période
+ T1/T5…
+ T2/T6…
+ T3/T7…
+ T0/T4/T8…
+% ventes
+ 15
+ 20
+ 40
+ 25
+annuelles
+“Raquette +” qui s'offre ainsi à votre firme n'est actuellement pas fabriqué. Il
+pourrait néanmoins l'être à partir des matières premières fibre et résine (cf.
+212), mais nécessiterait l'acquisition de machines spéciales MY exclusivement
+réservées à sa production. Les distributeurs des deux skis pourraient
+également être ceux de “Raquette +”.
+Votre syndicat professionnel a demandé à la société SCA, une étude de marché
+concernant les produits “Ski Elite, “Ski 2000”, et “Raquette +” et vous en
+trouverez les conclusions en annexe.
+5
+ Gambini Raymond et Tixier Daniel
+2 - MARKETING ET DISTRIBUTION
+Votre entreprise, comme les firmes concurrentes, fabrique ses produits et les
+revend à un réseau de distribution spécialisé, et non directement au
+consommateur final. Aucun autre réseau de distribution ne peut être utilisé au
+cours du jeu.
+2.1 Le réseau de distribution de vos produits.
+Il y a sur le pays entier un certain nombre de points de vente spécialisés et non
+exclusif qui sont démarchés par les forces de vente de chacune des firmes
+concurrentes. Toutefois, certaines études récentes ont montré qu'un nombre
+équivalent de nouveaux points de vente pourraient distribuer les trois produits
+en plus de leur activité actuelle. Par ailleurs, un démarchage plus intensif des
+points de vente existants serait également susceptible d'accroître les ventes.
+Quand une entreprise embauche des vendeurs supplémentaires, elle s'arrange
+systématiquement pour répartir cette force de démarchage additionnelle de la
+manière la plus efficace pour elle, entre le démarchage de nouveaux points de
+vente et l'intensification des visites aux points de vente existants.
+On pense dans l'industrie que les points de vente supplémentaires susceptibles
+d'être créés ne sont pas tous aussi intéressants et qu'au delà d'un certain seuil
+il n'y a plus rien à gagner à intensifier davantage les visites aux points de vente
+existants. De ce fait une augmentation de la force de vente aurait des effets
+positifs sur les ventes mais le rendement de chaque vendeur supplémentaire
+irait en décroissant au delà d'un certain nombre. Malheureusement, il semble
+qu'on ne puisse déterminer que de façon empirique la taille optimum de la
+force de vente.
+En cas de lancement de nouveaux produits, la force de vente existante
+répartira son effort au mieux entre les produits. Tous les produits susceptibles
+d'être vendus dans le jeu sont distribués par les mêmes points de vente.
+Néanmoins, l'augmentation ou la modification des produits proposés par les
+vendeurs entraîne la nécessité de passer plus de temps dans les magasins
+pour avoir la même efficacité.
+La totalité des clients exigent un crédit de paiement sur leurs achats de 90
+6
+ Gambini Raymond et Tixier Daniel
+jours : vous n'encaisserez donc vos ventes d'un trimestre que le trimestre
+suivant sans pouvoir, au cours du jeu, modifier ce délai-client. Toutefois, il
+vous est possible d'escompter une partie des ventes du trimestre. Dans ce cas,
+seul le solde sera encaissé pendant la période suivante.
+2.2 La force de vente
+A la période 0, votre firme dispose de 50 vendeurs exclusifs. (Par souci de
+simplification, il n'y a pas à prévoir de départs à la retraite ni de congés payés
+pendant le jeu). Ces vendeurs coûtent à l'entreprise chacun (salaires + charges)
+12 500 € par trimestre.
+Chaque vendeur entraîne des frais de déplacement et de mission pour un
+montant fixe de 10 000 € par trimestre. Par ailleurs, l'encadrement de la force
+de vente représente une charge fixe de 375 000 € par trimestre (aucune de ces
+deux charges n'évoluera dans le jeu, quelle que soit la taille acquise par la force
+de vente).
+2.3 Engagement / licenciement des vendeurs
+Il est possible d'embaucher, sans limitation, de nouveaux vendeurs. Ils
+reçoivent une rémunération normale dès le trimestre de leur recrutement ;
+mais leur efficacité moyenne pour cette période n'est que la moitié environ de
+celle d'un vendeur chevronné. Ils deviennent totalement opérationnels à la
+période suivante. Le coût d'embauche et de formation d'un vendeur est fixe. Il
+se monte à 5 000 € payables à la période d'embauche.
+Il est également possible de licencier les vendeurs sans limitation, sous réserve
+de leur verser à chacun une indemnité forfaitaire d'un montant de 50 000 €
+(les frais d'embauche ou de licenciement sont automatiquement pris en compte
+par l'ordinateur).
+Un vendeur licencié quitte l'entreprise le premier jour du trimestre, n'effectue
+aucun travail et ne perçoit pas sa rémunération trimestrielle normale.
+2.4 Publicité
+En période 0, les entreprises ont toutes consacré 600 000 € à leur publicité. Il
+vous appartient désormais de fixer votre budget publicité propre, en notant,
+dans le cas de lancement de nouveaux produits (“Ski 2000” et “Raquette +”)
+qu'il vous est possible d'avoir un effort publicitaire différent pour chacun.
+Toutes les dépenses relatives à la force de vente et à la publicité sont
+décaissées au cours du trimestre où elles sont engagées.
+7
+ Gambini Raymond et Tixier Daniel
+2.5 Etudes de marché
+Un certain nombre de moyens sont à votre disposition pour affiner votre
+analyse du marché. Les résultats vous fournissent quelques éléments
+d’informations sur la concurrence.
+Par ailleurs des études spécifiques, par marché, vous sont proposées par des
+sociétés de conseils spécialisés :
+Etude A pour le marché des skis
+Etude B pour le marché des raquettes.
+Prix de chaque étude : 10 000 €.
+8
+ Gambini Raymond et Tixier Daniel
+3 - PRODUCTION
+La production des produits “Ski Elite”, “Ski 2000” et “Raquette +” nécessite
+des matières premières (fibre et résine), des ensembles de machines (MX et
+MY), du personnel direct de production (ouvriers et agents de maîtrise), des
+coûts variables correspondant aux consommations d'énergie et aux petites
+matières consommables.
+3.1 Les matières premières
+Les trois produits se fabriquent à partir de deux matières premières distinctes,
+mais substituables sous certaines conditions, la fibre et la résine.
+3.2 Approvisionnement en matières premières
+Les matières premières sont obtenues auprès de fournisseurs spécialisés dont
+la fiabilité de livraison a été totale dans le passé.
+Toute commande passée est livrée entièrement en début de période et donc
+disponible en production. Elle n'est cependant à payer qu'au cours de la
+période suivante (crédit fournisseur de 90 jours). Les coûts d'achat sont
+toujours restés stables dans le passé aux cours suivants :
+1 unité de matière première FIBRE
+1 unité de matière première RESINE
+5 €
+1,25€
+(aucun autre frais sur achats de matières premières n'est à envisager).
+3.3 Substitution entre les matières premières et qualité des
+produits
+“Ski Elite”, existant au début du jeu se fabrique à partir d'un total fixe de
+20 unités de matières premières par unité de produit fini, selon la combinaison
+fixe suivante : 16 unités de FIBRES + 4 unités de RÉSINES. Cette
+combinaison est intangible et aucune firme ne peut la modifier en cours de jeu,
+ce qui revient à dire que la qualité de “Ski Élite” est fixe et restera identique
+pour toutes les firmes concurrentes.
+“Ski 2000”,
+ s'il est lancé se fabrique également à partir d'un total de
+9
+ Gambini Raymond et Tixier Daniel
+20 unités de matières premières mais chaque firme peut établir la combinaison
+de son choix entre fibre et résine et ainsi déterminer la qualité de son produit.
+Cette combinaison fibre/résine une fois déterminée, la qualité du produit “Ski
+2000” doit être en principe maintenue au cours des périodes de jeu
+successives.
+Chaque firme peut cependant modifier la qualité de son produit “Ski 2000” à la
+condition d'avoir normalement écoulé, au cours de la période précédente, la
+totalité de ses stocks de produits “Ski 2000” fabriqués à l'ancienne qualité. Si
+elle détient encore des stocks de produits fabriqués à l'ancienne qualité et
+qu'elle souhaite néanmoins modifier la combinaison fibre/résine, les stocks de
+“Ski 2000” d'ancienne qualité seront automatiquement "bradés" par
+l'ordinateur au prix unitaire fixe de 50 €, à l'extérieur du marché habituel sur
+lequel vendent les firmes concurrentes (ces soldes ne viendront donc pas
+diminuer la demande globale). Ainsi aucune firme ne pourra au cours d'une
+même période proposer à la vente sur le marché normal deux “Ski 2000” de
+qualité différente.
+Le produit des ventes en solde sera encaissé au cours du trimestre suivant,
+comme pour les ventes normales.
+“Raquette +”, s'il est lancé, nécessite 10 unités de matières premières par
+unité de produit fini, selon la combinaison suivante : 5 unités de FIBRES + 5
+unités de RÉSINES. Cette combinaison est intangible et n'est pas modifiable
+en cours de jeu.
+La qualité de “Raquette +” est donc fixe et restera identique pour toutes les
+firmes concurrentes.
+ATTENTION :
+Si vous souhaitez vendre au cours d'un trimestre des produits “Ski 2000”
+disponibles en stock alors que vous en avez arrêté la production
+temporairement ou définitivement, indiquez le prix de vente, mettez 0 pour la
+production et n'oubliez pas d'en indiquer le facteur qualité à la case 7 du
+bordereau de saisie des décisions. Si vous ne remplissez pas correctement cette
+case 7, les produits seraient soldés sur le marché intérieur dans les conditions
+prévues ci-dessus.
+3.4 Rupture de stock de matières premières
+Si le programme de production décidé conduit, tous produits compris, à une
+consommation de matières premières supérieure aux quantités disponibles
+(stocks de début de trimestre + quantités achetées dans la période), il y a
+rupture du ou des stocks de matières premières. Dans ce cas, l'ordinateur
+10
+ Gambini Raymond et Tixier Daniel
+approvisionnera d'office la firme en quantités manquantes de fibre ou de résine
+pour lui permettre de réaliser la production prévue (achats «spots»). Les coûts
+de ces achats «spots» seront alors :
+Achat spot d’1 unité de FIBRE
+Achat spot d’1 unité de RESINE
+7,52,5€
+€
+Le paiement de ces achats «spots» s'effectuera, à l'inverse des achats normaux,
+au comptant au moment de leur utilisation.
+3.5 Rupture de stocks de produits finis
+Dans ce cas, la demande que vous n'avez pas satisfaite se reportera en partie
+sur vos concurrents et les effets négatifs de cette situation pourront avoir des
+répercussions sur vos ventes des périodes suivantes.
+3.6 Le matériel de production
+Les produits “Ski Elite” et “Ski 2000” utilisent pour leur fabrication le même
+ensemble de machines MX. De son côté, le produit “Raquette +” utilise
+exclusivement des ensembles MY, lesquels ne peuvent servir à la fabrication
+des skis.
+Les chaînes1 MX et MY constituent, pour les “Ski Elite” et “Ski 2000” d'une
+part, pour les produits “Raquette +” de l'autre, le seul stade de fabrication à
+envisager au cours du jeu et aucun autre équipement de production n'est ici
+simulé. (Dans un souci de simplification, seuls les ensembles de machines
+apparaissent en immobilisations. On supposera que toutes les autres
+immobilisations nécessaires au fonctionnement de l'entreprise font l'objet de
+contrats de leasing dont les foyers fixes sont comptés dans le poste Frais de
+Gestion).
+1 Les mots chaînes, machines ou ensembles sont ici synonymes.
+11
+Gambini Raymond et Tixier Daniel
+3.7 Valeur et acquisition des chaînes MX et MY
+(Il est rappelé qu'au début du jeu, seul “Ski Elite” est fabriqué et que l'entreprise
+ne dispose que de chaînes MX).
+En période 0, votre firme dispose de 10 chaînes MX qui ont toutes été acquises
+en même temps il y a 10 périodes au prix de € 2 500 000 l'unité. Elles ont été
+amorties linéairement (seule méthode d'amortissement possible au cours du
+jeu) au taux de 5 % par période (correspondant à une durée de vie de 5 ans) et
+ont, en période 0, une valeur nette au bilan de 1 125 000 € chacune.
+L'acquisition de nouvelles chaînes s'effectue au prix de 2 500 000 € pièce et le
+nombre de chaînes disponibles est illimité. Le fournisseur ne consent aucun
+crédit direct aux firmes qui doivent régler à la commande le prix prévu.
+Une chaîne commandée est immédiatement utilisable en production.
+Les chaînes MY peuvent être acquises à tout moment aux mêmes conditions
+que les chaînes MX (utilisation en production immédiate, amortissement
+comptable de 5 %), mais au prix unitaire de 2 000 000 €.
+3.8 Revente des chaînes MX
+Vous pouvez revendre les chaînes MX sur le marché de l'occasion au prix
+forfaitaire de 250 000 € pièce et ceci à tout moment du jeu.
+Mais attention, seules les 10 chaînes MX possédées en période 0 peuvent être
+cédées, les machines neuves étant exclues de cette disposition. Les chaînes MY
+ne sont pas cessibles. Dans le trimestre où vous décidez la revente d'une ou
+plusieurs chaînes MX, vous ne pouvez pas passer commande d'un ensemble
+neuf de même type. La revente s'effectue le premier jour du trimestre et la
+chaîne vendue ne produit donc pas au cours de cette période.
+L'ordinateur calculera pour vous la +/- value de cession qui sera ajoutée ou
+déduite de votre bénéfice imposable de la période (imposition au taux de 33 %).
+Le prix de cession vous sera réglé par l'acheteur au moment de la vente.
+3.9 Capacité de production et utilisation des chaînes MX et MY
+Neuves, les chaînes MX ont une capacité de production de 35 000 unités par
+période et les ensembles MY de 25 000.
+Qu'elle soit ou non utilisée en production et quelles que soient les conditions
+d'utilisation, chaque chaîne subit chaque trimestre une perte automatique de
+capacité de production égale à 5 % de sa capacité initiale.
+Ainsi en début de période 1, chacune
+ des 10 chaînes MX a une capacité de
+12
+ Gambini Raymond et Tixier Daniel
+production de 15 750 unités de SKI ÉLITE/SKI 2000. La perte de capacité
+trimestrielle n'est pas susceptible d'être contrebalancée par des dépenses
+supplémentaires (maintenance par exemple). Au cours d'un trimestre donné, il
+est possible de faire fonctionner les machines MX ou MY en sur-capacité mais
+dans la limite maximum de 50 % de plus que la capacité normale du début de
+période.
+Ainsi, pour la période 1, la production maximum que peuvent techniquement
+réaliser les 10 machines MX (compte non tenu des autres contraintes de
+production et notamment celle relative au personnel) est de :
+157 500 x 1,5 = 236 250.
+Les chaînes MX et MY peuvent également fonctionner en sous-capacité au
+cours d'un trimestre.
+La sur ou sous-utilisation de machines n'entraîne aucune modification dans
+les pourcentages de perte de capacité trimestrielle mentionnée plus haut.
+13
+ Gambini Raymond et Tixier Daniel
+3.10
+ Le personnel direct de production
+Toutes les rémunérations de personnel sont réglées au cours de la période où
+elles sont dues. La fabrication de “Ski Elite”, “Ski 2000” et “Raquette +”
+nécessite le même temps de fabrication unitaire.
+3.11
+ Les ouvriers permanents
+En période 0, votre firme emploie 1 000 ouvriers permanents en production.
+3.12
+ Rémunérations, niveau d'activité et personnel intérimaire
+Chaque ouvrier permanent reçoit un salaire correspondant pour l'entreprise à
+une charge de 7 500 € par période et ceci pour le travail effectué pendant le
+temps légal au cours duquel il fabrique 200 unités de produits (“Ski Élite”, “Ski
+2000” et “Raquette +”). Dans un but de simplification, il n'est pas possible de
+faire varier cette rémunération pendant le jeu.
+Cette rémunération est due quel que soit le niveau d'activité à l'usine,
+notamment si la production programmée est inférieure à la capacité de
+production de la main-d'oeuvre permanente.
+En cas de dépassement de la durée normale de travail cependant, vous devez
+verser à vos ouvriers permanents un complément de salaire correspondant aux
+heures supplémentaires effectuées et calculé sur la base de la pièce
+supplémentaire produite selon la formule :
+7 500 * 1,5
+200
+=
+X nombre de pièces supplémentaires par ouvrier
+Rémunération supplémentaire par ouvrier
+ATTENTION
+Chaque ouvrier n'accepte cependant de produire par trimestre que 50 pièces
+supplémentaires, soit pour un trimestre, un total maximum possible de 250
+pièces par ouvrier permanent..
+14
+ Gambini Raymond et Tixier Daniel
+Si la production programmée au cours de la période venait à dépasser votre
+capacité de main-d'œuvre (compte tenu des heures supplémentaires),
+l'ordinateur embauchera pour vous automatiquement du personnel
+intérimaire.
+Un ouvrier intérimaire peut produire au maximum 200 pièces par trimestre et
+ne peut effectuer d'heures supplémentaires. Son coût trimestriel est égal au
+double de celui de l'ouvrier permanent, soit 15 000 € par trimestre pour 200
+pièces en période 0. Mais il ne perçoit en fait qu'une rémunération calculée au
+prorata du nombre de pièces produits au cours de sa présence dans
+l'entreprise, soit pour X pièces produites :
+X
+-----
+200
+x 15 000
+Tout ouvrier permanent ou intérimaire peut travailler immédiatement en
+production et indifféremment sur les trois produits.
+3.13
+ Embauche et licenciement des ouvriers permanents
+Chaque firme peut embaucher des ouvriers permanents sur le marché de
+l'emploi en fonction de ses besoins. Cette embauche est instantanée mais coûte
+à l'entreprise 750 € par ouvrier supplémentaire, payables dans le trimestre du
+recrutement. Chaque ouvrier embauché est immédiatement opérationnel et
+perçoit son plein salaire trimestriel.
+En cas de licenciement, quelle qu'en soit la cause, chaque firme devra verser à
+l'ouvrier licencié une indemnité totale de 10 000 €. L'ouvrier quitte alors
+l'entreprise le premier jour du trimestre et n'effectue aucun travail au cours de
+cette période.
+3.14
+ Cadres et agents de maîtrise de production
+Ils constituent une masse salariale fixe de 1 750 000 € par trimestre quel que
+soit le niveau de production.
+15
+ Gambini Raymond et Tixier Daniel
+3.15
+ Charges salariales et congés payés
+Dans un but de simplification, on ne tiendra compte ni des charges sociales
+(incluses dans les chiffres présentés) ni des congés payés ni des frais annexes
+(formation...). Les ouvriers travaillent régulièrement tout au long de l'année.
+3.16
+ Les coûts variables de production et la R&D
+Ils se composent des coûts d'énergie, de matières consommables, d'entretien et
+d'une façon générale des coûts annexes de production. Ces coûts sont
+proportionnels aux quantités produites et s'élèvent en période 0 à 25 € par
+unité produite de “Ski Elite”, “Ski 2000” et “Raquette +”.
+Votre entreprise a investi, en période 0, 100 000 € en recherche et
+développement. Les dépenses en recherche et développement permettent par
+leur effet cumulé, d'abaisser les coûts variables de production, selon une loi
+qu'il vous appartient de déterminer empiriquement. Inversement, l'absence de
+budget consacré à la recherche et au développement peut conduire à une
+augmentation de ces coûts variables. Les coûts variables comme les dépenses
+en recherche et développement sont décaissés au cours de la période.
+16
+ Gambini Raymond et Tixier Daniel
+3.17
+ Méthode d'évaluation des stocks
+La règle est l'évaluation au coût moyen pondéré.
+3.18
+ Stocks de produits finis
+Les stocks de produits finis seront évalués selon la règle du prix de revient
+unitaire moyen pondéré.
+Il est rappelé que le prix de revient de fabrication utilisé pour la valorisation
+des stocks comprend :
+
+ les matières premières, les salaires et heures supplémentaires des
+ouvriers et salaires des intérimaires, les coûts variables de fabrication, les
+charges d'amortissement des machines, frais de personnel d'encadrement et
+d'agents de maîtrise et les frais de recherche et développement.
+Il conviendra d'observer les règles d'imputation suivantes :
+
+ Les matières premières et les coûts variables de fabrication seront
+affectés directement à chacun des produits.
+
+ Les heures supplémentaires et salaires fixes des ouvriers permanents,
+les salaires des ouvriers intérimaires, les frais de personnel d'encadrement et
+d'agent de maîtrise, les frais de recherche et développement seront affectés à
+chacun des produits au prorata des quantités produites.
+
+ Les charges d'amortissement des machines MX seront réparties sur
+les produits “Ski Elite” et “Ski 2000” au prorata des quantités, celles
+correspondant aux machines MY sur le produit “Raquette +” seul.
+En période 0, le prix de revient unitaire des produits “Ski Elite” en stock initial
+était de 162,72 €, le prix de revient des unités produites en période 0 a été de
+163 €, le prix de revient des unités en stock final est de 162,99 €.
+17
+ Gambini Raymond et Tixier Daniel
+4 - LES FINANCES
+Le financement de votre entreprise peut s'effectuer soit par autofinancement,
+soit par financement externe. Le financement externe peut se traduire par des
+concours bancaires, ou l'escompte de ses créances clients.
+Le capital social de votre entreprise s’élève à 40 000 K€, soit 400 000 actions
+d’une valeur nominale de 100 euros.
+4.1 Situation au début du jeu
+Au début de la période 0, votre entreprise n'a pas de dettes à long ou à court
+terme à son passif.
+Une étude des comptes des périodes -3 à 0 permet de suivre la gestion des
+entreprises à court et à long terme menée par vos prédécesseurs dans l'année
+qui a précédé votre entrée en fonction.
+Par ailleurs, durant les deux dernières périodes, votre entreprise a accumulé
+les excédents de trésorerie, placés en bons de caisse, de façon à faire face à ses
+besoins futurs.
+4.2 Modalités d'obtention d'un emprunt à court terme1
+Un emprunt à court terme est obtenu dans la période pour laquelle il est
+demandé et est remboursable en totalité (principal + intérêts) dans la période
+suivant celle de son obtention. Le taux d'intérêt en période 0 est de 2,5 % par
+période.
+Son montant est limité à 60 % du montant des stocks tels qu'ils figurent au
+dernier bilan publié (c'est-à-dire au bilan de fin de la période précédente), dans
+la limite des capacités d'emprunt à court terme de l'entreprise.
+4.3 Modalités d'escompte des créances clients
+Chaque entreprise peut décider d'escompter ses créances clients, c'est-à-dire,
+le produit des ventes de la période en cours ; la banque autorise cet escompte
+jusqu'à concurrence maximum de 60 % des ventes de la période en cours. Le
+taux d'escompte est normalement le double du taux à court terme, mais
+l'escompte ne porte pas sur la totalité de la période. Il en ressort que le coût
+moyen de l'escompte se monte à 90 % de celui du court terme.
+1
+Pour simplifier et faciliter les prévisions de trésorerie des participants, les chiffres servant de références pour déterminer le
+montant maximum des emprunts pouvant être accordé ainsi que le seuil de cessation de paiement sont ceux figurant au
+dernier bilan publié, c'est-à-dire au bilan d'ouverture de la période en jeu, avant affectation du résultat.
+18
+ Gambini Raymond et Tixier Daniel
+4.4 Modalités d'obtention d'un modalité d'obtention d'un emprunt à
+LT
+Les fonds demandés sont versés en début de trimestre suivant la période de la
+demande. Le maximum de l'emprunt à long terme se calcule de la façon
+suivante :
+Montant maximum de l'emprunt long terme demandé :
+80 % (capital social + réserves) - Emprunt long terme inscrit au passif du bilan
+de fin de la période précédente.
+La durée de remboursement de l'emprunt à long terme -par fraction égales- est
+unique et fixée à 4 périodes, la première ayant lieu au cours du trimestre
+suivant celui de l'obtention des fonds. Aucune franchise de remboursement ne
+peut être accordée, de même aucun remboursement anticipé ne peut être
+effectué.
+Les intérêts sont, en période 0, de 2,5 % par période, calculés sur les sommes
+restant dues au début du trimestre.
+Un emprunt à long terme, sollicité au cours d'un trimestre et correspondant
+aux normes ci-dessus, sera automatiquement versé au compte de l'entreprise
+au cours du trimestre suivant sans que celle-ci puisse renoncer à son bénéfice.
+Il ne peut être sollicité qu'un seul emprunt à long terme à chaque période de
+jeu.
+Le paiement des frais financiers sur les emprunts à long terme commençe dans
+la période suivant celle de son obtention.
+4.5 Modalités du découvert
+Si au cours d'un trimestre et après avoir bénéficié, le cas échéant, des
+nouveaux emprunts demandés et utilisé les possibilités d'escompte, votre
+entreprise connaît néanmoins un déficit de trésorerie, l'ordinateur lui octroiera
+automatiquement un découvert lui permettant de faire face à ses échéances et
+de ramener sa trésorerie à 0. Ce découvert sera intégralement remboursable au
+trimestre suivant et portera intérêt à un taux deux fois supérieur au taux
+d'intérêt normal à court terme. La facilité du découvert cessera dès que
+celui-ci plus l'emprunt à court terme dépasseront 100 % du total capitaux
+propres et réserves apparaissant au dernier bilan publié. A ce moment,
+l'entreprise concernée sera déclarée en état de liquidation de bien et sera
+éliminée du jeu.
+19
+ Gambini Raymond et Tixier Daniel
+4.6 Modification des taux d'intérêt sur emprunt
+Ces modifications éventuelles vous seront communiquées par la «lettre de
+conjoncture».
+4.7 Placements à court terme - Bons de caisse
+Au-delà d'un certain montant de disponibilités, votre entreprise place
+automatiquement en bons de caisse ses excédents de trésorerie. Ces bons de
+caisse sont achetés dans la période des excédents et revendus
+automatiquement dans la période suivante. Si l'entreprise présente de nouveau
+des excédents de trésorerie à la période suivante, de nouveaux bons sont
+achetés, et ainsi de suite.
+La maturité des bons est d'une période. Leur rapport rmoyen est de 80 % de
+celui du taux des emprunts à court terme.
+Les bons avaient des valeurs nominales de 1 000 000 € jusqu'en période -3. À
+partir de la période -2, votre banque a offert des bons de 200 000 €. C'est donc
+par nombre entier de bons de 200 000 € que votre entreprise a placé ses
+excédents de trésorerie depuis cette période.
+4.8 Calcul et paiement de l'impôt sur les bénéfices
+Depuis la période -2, l'impôt sur les bénéfices s'applique au taux de 33 % sur
+les résultats d'exploitation de chaque période ; il était de 50 % auparavant. Il
+est payé dans la période. En cas de pertes, il n'y a pas, bien sûr, d'impôts à
+payer.
+Toutes les quatrièmes périodes de jeu, l'ordinateur calculera l'impôt dû sur
+l'année écoulée et le comparera à l'impôt réellement payé. Si l'impôt payé a été
+excédentaire par rapport à l'impôt dû -par l'effet des pertes- la différence sera
+remboursée à l'entreprise.
+Aucune perte sur exercices antérieurs ne s'est produite au cours des exercices
+précédents.
+Attention : Les emprunts sont demandés en MILLIERS d’euros. Les résultats
+d'exploitation vous sont également communiqués en MILLIERS d’euros.
+4.9 Distribution des dividendes
+L’entreprise peut verser à tout moment aux actionnaires des dividendes par
+prélèvement sur les bénéfices et les réserves, sous réserve du respect des
+obligations légales.
+20
+ Gambini Raymond et Tixier Daniel
+4.10
+ L'administration
+Elle est schématiquement représentée dans le jeu par les salaires
+administratifs (1 000 000 € en période 0) et des frais de gestion (2 000 000 €
+en période 0). Ces sommes décaissées à chaque période, seront fixes tout au
+longdujeu.
+21
+ Gambini Raymond et Tixier Daniel
+5 - ANNEXE 1
+Étude de marché de la société des chercheurs associés (SCA)
+5.1 Caractéristiques générales de la demande des produits “Ski
+Elite” et “Ski 2000”
+Les skis présentent la particularité d'associer à une courbe de demande
+typique -les quantités variant en raison inverse des prix proposés- une courbe
+de désirabilité du produit, fonction des performances sportives des produits
+offerts et donc de la qualité de fabrication.
+On sait que les produits sont fabriqués à partir de deux matières premières, la
+fibre et la résine, dans la proportion, pour “Ski Elite”, de 16 unités de fibres et
+4 unités de résines. La fibre est coûteuse, mais garantit un haut niveau de
+performance au matériel. On peut lui substituer, dans le cas du produit “Ski
+2000”, la résine, beaucoup moins coûteuse mais permettant des performances
+moindres et ceci dans toute proportion souhaitée.
+On a constaté cependant à l'issue des tests de produits que les performances
+techniques des skis -donc leur attrait pour les consommateurs- ne variaient
+pas proportionnellement à la quantité de fibre contenue dans le produit mais
+par palier.
+On a pu ainsi dresser le tableau suivant concernant les skis :
+Si l'on fait varier
+le pourcentage de fibre
+dans les skis à l'intérieur des
+fourchettes
+de 0 à 20 %
+de 20 à 60 %
+de 60 à 80 %
+de 80 à 100 %
+Le gain en performance
+et en attrait pour le
+consommateur est :
+très rapide
+moyen
+très rapide
+négligeable
+Il y a un marché potentiel important pour “Ski 2000” de prix modéré à
+performance honorable que l'on pourrait qualifier de "bas de gamme" en
+quelque sorte et il y a un marché potentiel substantiel pour un ski qui peut
+être cher à condition qu'il soit très performant (c'est le cas de “Ski Elite”) : c'est
+22
+ Gambini Raymond et Tixier Daniel
+le marché de "haut de gamme". Par contre, le marché est restreint pour un
+produit positionné entre les deux.
+Le fait que le marché présente ce creux entre deux bosses n'empêche pas une
+entreprise de se positionner dans le creux. En effet, les ventes des firmes sur ce
+créneau dépendent non seulement du marché primaire, mais aussi de
+l'intensité de la concurrence sur ce créneau. Quand un acheteur potentiel ne
+trouve pas le produit qu'il souhaite sur le marché, son choix se porte sur le
+produit qu'il juge le plus proche à moins qu'il ne trouve l'écart trop grand et
+décide de ne rien acheter. Il est donc possible que le lancement de nouveaux
+produits ou le repositionnement entraînent des déplacements de marché assez
+importants.
+Le ski a un marché de type bimodal du fait de la conjonction des courbes de
+demande en fonction du prix et en fonction du potentiel de performance
+sportive.
+Il faut noter que le marché de skis n'ayant jusqu'ici été alimenté qu'en produit
+“Ski Elite” de haut de gamme, cette alimentation ayant par ailleurs été
+satisfaisante, la croissance du marché skis n'a été jusqu'ici qu'assez faible
+quoiqu'assez régulière. D'après cette étude un produit acceptable à prix modéré
+pourrait bénéficier pendant un certain temps d'une forte demande de
+rattrapage, et le marché potentiel de bas de gamme est sensiblement supérieur
+en quantité à celui de haut de gamme.
+5.2 Marché du produit “Raquette +”
+Ce marché est à peu près vierge, en ce qui concerne un produit fabriqué à
+partir des matières premières fibre et résine. On a néanmoins pu établir qu'il
+avait à terme un potentiel très important, très probablement suffisant pour
+avoir un effet sensible sur l'activité des entreprises en période traditionnelle de
+morte saison.
+5.3 L'élasticité
+D'après l'étude, les bas de gamme pour les skis, sont beaucoup plus sensibles
+à la publicité que les hauts de gamme. Par contre, trop réduire la publicité sur
+les hauts de gamme peut être interprété par le marché comme un signe
+précurseur d'une volonté d'abandon de ce créneau.
+Les firmes du secteur n'ayant aucune notoriété sur le produit “Raquette +”, il
+est probable que la publicité aura un rôle important à jouer.
+5.4 Lancement des nouveaux produits
+23
+ Gambini Raymond et Tixier Daniel
+Qu'il s'agisse des nouveaux produits ski ou raquette, il ne faut pas atteindre en
+une seule fois le niveau de vente correspondant à l'effort entrepris. L'étude
+montre que leur diffusion serait progressive et que les ventes lors de la
+première période de lancement en seraient affectées, le niveau de vente étant
+de l'ordre de la moitié de la normale.
+La deuxième période d'un nouveau produit devrait être normale.
+24
+ Gambini Raymond et Tixier Daniel
+6 - ANNEXE 2
+Bordereau de saisie des décisions
+Comment remplir votre bordereau de saisie des décisions.
+ Votre identification
+Votre mot de passe vous est communiqué au début du jeu et permet seul
+l'identification de votre entreprise.
+ Le prix de vente unitaire
+Une valeur de 0 signifie que vous ne proposez pas le produit concerné à la
+vente au cours du trimestre. Vous pouvez utiliser deux décimales dans la
+fixation du prix qui doit être exprimé en euros par unité.
+ La production à réaliser
+Indiquez, en milliers d'unités, les quantités que vous désirez produire de “Ski
+Elite”, “Ski 2000” et “Raquette +” au cours de la période.
+ La publicité
+Indiquez le montant du budget publicitaire trimestriel par produit en milliers
+d’Euros.
+ Qualité
+Cette entrée ne concerne que le produit “Ski 2000”, puisque les qualités de “Ski
+Elite” et “Raquette +” sont fixes. La qualité s'exprime en pourcentages de
+matières premières fibres que vous décidez d'utiliser dans une unité de
+produit. Si par exemple vous indiquez "30", ceci signifiera que chaque produit
+“Ski 2000” fabriqué comprendra 30 % de fibres, soit 6 unités de fibres et 70 %
+25
+ Gambini Raymond et Tixier Daniel
+de résines (soit 14 unités de résines et un total de 20 unités de matières
+premières). L'indice de qualité est donc compris entre 0 et 100. Si vous ne
+remplissez pas cette case, on considérera qu'elle vaut 0 et donc que votre
+produit est exclusivement fabriqué à partir de résines.
+ATTENTION :
+Relisez attentivement le chapitre relatif aux changements de qualité en cours du
+jeu.
+ Etudes de marchés payantes
+Indiquez par oui ou non votre décision d’achat.
+ Recherche et Développement
+Indiquez la somme en milliers d’euros.
+ Achats de matières premières
+Indiquez ici les unités commandées pour le trimestre, en milliers d'unités.
+ Achat/vente des chaînes MX et MY
+Indiquez ici le nombre de machines que vous commandez au cours du
+trimestre (avec le signe " + ") ou le nombre de machines MX dont vous
+souhaitez vous débarrasser (avec le signe " - "). Relisez attentivement les règles
+qui régissent ces opérations.
+ Embauche / licenciement ouvriers et vendeurs
+Il faut indiquer ici le nombre d'ouvriers ou de vendeurs embauchés ou
+licenciés. Ce nombre sera précédé du signe " + " s'il s'agit d'une embauche, du
+signe " - " s'il s'agit d'un licenciement. Indiquez 0 si vous n'effectuez aucune de
+ces deux opérations.
+ Emprunt à court terme demandé pour la période
+Indiquez son montant en milliers d’euros après avoir vérifié que vous êtes à
+l'intérieur des contraintes d'octroi. Si ce n'était pas le cas, l'ordinateur
+ramènerait automatiquement l'emprunt octroyé au maximum permis.
+ Emprunt à long terme demandé pour la période prochaine
+Mêmes remarques que pour l'emprunt à court terme. Attention, les fonds ne
+vous seront versés - automatiquement - qu'avec un trimestre de décalage : en
+26
+ Gambini Raymond et Tixier Daniel
+période 3 par exemple, si vous avez effectué votre demande en période 2.
+ Escompte des créances clients
+Indiquez le montant de 0 à 60 correspondant au pourcentage des créances
+clients portées à l'escompte (pas de décimale). En l'absence de chiffre, aucune
+créance ne sera escomptée.
+ Distribution de dividendes
+Indiquez le montant distribué aux actionnaires (K€).
+ N.B.1
+Inscrivez les sommes autres que les prix de vente unitaires en milliers d’euros
+mais sans utiliser de décimales. Les prix de vente unitaire doivent être inscrits
+en €, en utilisant, si besoin est, deux décimales. Écrivez très lisiblement et
+vérifiez vos entrées.
+ N.B.2
+Les calculs de l'ordinateur sont faits exactement et tiennent compte des
+valeurs exactes que vous avez indiquées. Mais pour des raisons techniques, les
+résultats trimestriels qui vous seront remis présenteront, dans les documents
+financiers de fin de période, des sommes en milliers d’€, qui auront été
+arrondies au millier d’€ le plus proche. Il peut en résulter certaines divergences
+avec votre propre comptabilité, mais celles-ci seront à négliger au cours du jeu,
+dans la mesure où les chiffres en mémoire de l'ordinateur sont les chiffres
+exacts.
+27
+ Gambini Raymond et Tixier Daniel
