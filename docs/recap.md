@@ -87,6 +87,7 @@ Résultat est rouge. on fait "faillite" la trésorerie est à -10millions. c'est
 On a pas tout vendu, il nous reste du stock beaucoup de stock de ski 2000 et un peu de ski elite et raquette.
 
 
+# conclusion
 
 Nos plus grosse faute sont le fait de ne pas augmenter notre masse salariale plus tôt.
 Avoir la peur de payer trop de charge par trimestre trop conséquent sans exploité son plein potentiel.
