@@ -75,7 +75,7 @@ La simulation se déroule sur **6 périodes** (trimestres), représentant chacun
 | P5      | 6,25 €              | 2,25 €               |
 | P6      | 5,00 €              | 1,25 €               |
 
-Prix spot P4 : Fibre=10 €, Résine=3 €. Prix spot P5 : Fibre=12 €, Résine=5 €.
+Prix spot P4 : Fibre=10 €, Résine=3 €. Prix spot P5 : Fibre=12 €, Résine=5 €. Prix spot P6 : Fibre=10 €, Résine=3 €.
 
 ### Machines
 
