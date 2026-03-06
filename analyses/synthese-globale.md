@@ -1,85 +1,116 @@
-# Synthèse Globale des Performances — Simulation ARIANE
+# Synthèse Globale des Performances — Simulation ARIANE II
 
 ---
 
 ## Tableau de bord global
 
-| Cycle | CA (€)  | Résultat net (€) | Parts de marché | Trésorerie (€) | Stocks invendus |
-|-------|---------|------------------|-----------------|----------------|-----------------|
-| 1     | 58 000  | −2 500           | 18 %            | 32 500         | 0               |
-| 2     | 65 700  | +1 200           | 21 %            | 41 300         | 0               |
-| 3     | 71 000  | −4 800           | 21 %            | 28 500         | ~200 unités     |
-| 4     | 67 200  | +3 100           | 21 %            | 38 700         | 0               |
-| **Total** | **261 900** | **−3 000** | — | **38 700** | — |
+| Période | CA (K€) | Marge Brute | Résultat Net | Trésorerie (K€) | RSE Global |
+|---------|---------|-------------|--------------|-----------------|------------|
+| P1      | 37 820  | 7 258 (19,2%) | +1 566       | 6 527           | 0,16       |
+| P2      | 57 189  | 8 494 (14,8%) | +738         | 4 419           | 0,41       |
+| P3      | 43 450  | 13 529 (31,1%) | +4 085      | 13 355          | 0,52 ✅    |
+| P4      | 37 198  | 11 250 (30,2%) | +1 700      | 2 628           | 0,51 ✅    |
+| P5      | 38 932  | 10 265 (26,4%) | +1 793      | 2 428           | 0,49 ⚠️   |
+| P6      | 78 817  | 24 950 (31,7%) | +10 711     | **−12 380** ❌  | 0,47 ⚠️   |
+| **Total** | **293 406** | — | **+20 593** | — | — |
 
 ---
 
 ## Évolution des indicateurs clés
 
-### Résultat net
+### Résultat net par période
 
 ```
-Cycle 1: ████████░░ −2 500 € ❌
-Cycle 2: ████████░░ +1 200 € ✅
-Cycle 3: ████████░░ −4 800 € ❌
-Cycle 4: ████████░░ +3 100 € ✅
+P1: ██████░░░░  +1 566 K€  ✅
+P2: ███░░░░░░░  +738 K€    ✅ (impact erreur Raquette)
+P3: ████████░░  +4 085 K€  ✅ (meilleure période mi-simulation)
+P4: ████░░░░░░  +1 700 K€  ✅ (bonne performance en basse saison)
+P5: ████░░░░░░  +1 793 K€  ✅
+P6: ██████████  +10 711 K€ ✅ (record absolu — haute saison)
 ```
 
-La simulation s'est soldée par un **résultat net cumulé légèrement négatif (−3 000 €)**. Ce résultat s'explique principalement par les erreurs du cycle 1 (sous-estimation des charges) et du cycle 3 (surproduction).
-
-### Parts de marché
-
-L'entreprise ARIANE a progressé de 18 % (cycle 1) à 21 % (cycle 2) et s'y est maintenue sur les cycles 3 et 4. Cette stabilisation à 21 % est satisfaisante, bien qu'une progression continue aurait été idéale.
+**Résultat remarquable** : résultat net **positif sur les 6 périodes**, pour un total cumulé de **+20 593 K€** et des capitaux propres finaux de **75 479 K€**.
 
 ### Trésorerie
 
-La trésorerie a connu des fluctuations importantes :
-- **Cycle 1 → Cycle 2 :** amélioration grâce à l'emprunt court terme (+8 800 €)
-- **Cycle 2 → Cycle 3 :** dégradation due au surstock (−12 800 €)
-- **Cycle 3 → Cycle 4 :** reconstitution partielle (+10 200 €)
+La trésorerie a connu des fluctuations importantes liées à la saisonnalité et aux investissements :
+
+```
+P0 (départ) : 15 134 K€
+P1          :  6 527 K€  (investissements + basse saison)
+P2          :  4 419 K€  (haute saison mais charges RSE nouvelles)
+P3          : 13 355 K€  (reconstitution grâce aux hausses de prix)
+P4          :  2 628 K€  (certification RSE + machines + ouvriers)
+P5          :  2 428 K€  (basse saison + achats MP hausse)
+P6          : −12 380 K€ (découvert — erreur de calcul escompte)
+```
+
+---
+
+## Résultats RSE et certification ISO 14001
+
+| Période | Prod. Éco | QVT   | Note MP Recyclées | Note Climat Social | Note RSE Global | Certification |
+|---------|-----------|-------|-------------------|--------------------|-----------------|---------------|
+| P1      | 0         | 0     | 0                 | 1,00               | 0,16            | Non           |
+| P2      | 2 000 K€  | 2 000 K€ | 0              | 0,76               | 0,41            | Non           |
+| P3      | 2 000 K€  | 2 000 K€ | 0,02           | 0,70               | **0,52**        | Éligible      |
+| P4      | 2 000 K€  | 2 000 K€ | 0,04           | 0,60               | **0,51**        | **Obtenue ✅** |
+| P5      | 2 000 K€  | 2 000 K€ | 0,05           | 0,55               | 0,49            | ⚠️ Menacée   |
+| P6      | 2 000 K€  | 2 000 K€ | 0,05           | 0,60               | 0,47            | ⚠️ Perdue ?  |
+
+**Investissement total RSE sur P2-P6 : 4 000 K€ × 5 = 20 000 K€**
 
 ---
 
 ## Analyse comparative par domaine
 
-### Production
+### Production et stocks
 
-| Aspect                  | Évaluation | Commentaire                                          |
-|-------------------------|------------|------------------------------------------------------|
-| Gestion des volumes     | ⚠️ Moyenne | Surproduction au cycle 3 — principale erreur         |
-| Gestion des stocks      | ⚠️ Moyenne | Stocks gérés, mais avec retard                       |
-| Investissements         | ✅ Bien    | Investissement pertinent mais timing à revoir        |
+| Aspect                  | Évaluation | Détail                                                   |
+|-------------------------|------------|----------------------------------------------------------|
+| Diversification produits | ✅ Bien    | 3 produits maîtrisés avec saisonnalités complémentaires  |
+| Gestion stocks Ski Élite | ✅ Bien    | Stratégie d'anticipation P1/P5 bien exécutée             |
+| Gestion stocks Raquette+ | ✅ Bien    | Stocks maîtrisés sur les 6 périodes                     |
+| Gestion stocks Ski 2000  | ❌ Insuffisant | 84 837 unités invendues à la clôture               |
+| Capacité machines        | ✅ Bien    | Investissements progressifs et appropriés                |
+| Ressources humaines      | ⚠️ Tardif  | Embauche de 60 ouvriers en P4 aurait dû être plus tôt   |
 
 ### Commercialisation
 
-| Aspect                  | Évaluation | Commentaire                                          |
-|-------------------------|------------|------------------------------------------------------|
-| Politique de prix       | ✅ Bien    | Ajustements progressifs et efficaces                 |
-| Budget marketing        | ✅ Bien    | Hausse progressive avec impact mesuré               |
-| Parts de marché         | ✅ Bien    | Progression et maintien à 21 %                      |
+| Aspect                  | Évaluation | Détail                                                   |
+|-------------------------|------------|----------------------------------------------------------|
+| Pricing Ski Élite        | ✅ Bien    | Progression cohérente de 200€ → 260€                    |
+| Pricing Ski 2000         | ✅ Bien    | Positionnement bas de gamme bien maintenu               |
+| Pricing Raquette+        | ⚠️ Corrigé | Erreur P2 (80€) corrigée dès P3 (170€)                  |
+| Budget publicitaire      | ✅ Bien    | Marketing intensif en P6 bien calibré                   |
 
-### Finance & Trésorerie
+### Finance et trésorerie
 
-| Aspect                  | Évaluation | Commentaire                                          |
-|-------------------------|------------|------------------------------------------------------|
-| Gestion des emprunts    | ✅ Bien    | Emprunts bien calibrés (CT et LT)                   |
-| Gestion de la trésorerie | ⚠️ Moyenne | Quelques tensions, corrigées rapidement              |
-| Résultat global         | ⚠️ Moyenne | Légèrement négatif sur l'ensemble de la simulation  |
+| Aspect                  | Évaluation | Détail                                                   |
+|-------------------------|------------|----------------------------------------------------------|
+| Résultat net cumulé      | ✅ Excellent | +20 593 K€ en 6 périodes, toujours positif             |
+| Trésorerie P6            | ❌ Découvert | −12 380 K€ due à une erreur de calcul escompte         |
+| Achat anticipé MP P3     | ✅ Excellent | Économie estimée ~21 000 K€ sur les prix de fibre       |
+| RSE / Certification      | ✅ Bien    | Certification obtenue en P4 après investissement progressif |
 
 ---
 
 ## Points forts identifiés
 
-1. **Réactivité** : capacité à corriger les erreurs rapidement (cycles 2 et 4).
-2. **Politique marketing** : hausse progressive et efficace du budget publicitaire.
-3. **Gestion des emprunts** : utilisation appropriée des instruments de financement.
-4. **Cohérence prix/marketing** : stratégie cohérente de positionnement compétitif.
+1. **Rentabilité constante** : aucune période déficitaire en 6 périodes de simulation.
+2. **Gestion de la saisonnalité** : stocks de Ski Élite bien anticipés pour les hautes saisons.
+3. **Réactivité sur la tarification** : l'erreur Raquette+ a été corrigée en une seule période.
+4. **Programme RSE** : stratégie RSE cohérente sur 5 périodes, avec certification obtenue.
+5. **Gestion des risques MP** : achat anticipé de fibres avant la hausse tarifaire.
+6. **Résultat P6 exceptionnel** : +10 711 K€ grâce à la stratégie de haute saison.
 
 ## Points d'amélioration
 
-1. **Prévision de la demande** : améliorer les méthodes d'estimation de la demande avant de décider des volumes de production.
-2. **Anticipation des charges fixes** : mieux intégrer tous les postes de coûts dès le cycle 1.
-3. **Analyse concurrentielle** : davantage surveiller les décisions des concurrents pour adapter la stratégie.
+1. **Trésorerie prévisionnelle** : la maîtrise de cet outil est venue trop tard (P5-P6 seulement).
+2. **Dimensionnement des effectifs** : recrutement tardif des ouvriers → heures supplémentaires coûteuses.
+3. **Pricing Raquette+** au lancement : calculer le coût complet avant tout prix de vente.
+4. **Production Ski 2000** : sur-production en P4-P5, stocks non résorbés à la clôture.
+5. **Emprunts LT en P1** : opportunité manquée pour produire plus de ski pour P2.
 
 ---
 

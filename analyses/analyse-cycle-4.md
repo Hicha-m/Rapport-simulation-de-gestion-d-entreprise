@@ -1,61 +1,66 @@
-# Analyse des Résultats — Cycle 4
+# Analyse des Résultats — Période 4
 
 ---
 
 ## Résultats obtenus
 
-| Indicateur             | Valeur      |
-|------------------------|-------------|
-| Chiffre d'affaires     | 67 200 €    |
-| Coût de production     | 41 500 €    |
-| Marge brute            | 25 700 €    |
-| Charges fixes & marketing | 22 600 €  |
-| Résultat net           | +3 100 €    |
-| Parts de marché        | 21 %        |
-| Stocks restants        | ~0 unités   |
-| Trésorerie finale      | 38 700 €    |
+| Indicateur                        | Valeur            |
+|-----------------------------------|-------------------|
+| Chiffre d'affaires                | 37 198 K€         |
+| Coût de production des produits   | 25 948 K€         |
+| Marge brute                       | 11 250 K€ (30,2%) |
+| Charges commerciales              | 2 500 K€          |
+| Charges administratives           | 6 213 K€          |
+| Résultat net                      | +1 700 K€         |
+| Trésorerie finale                 | 2 628 K€          |
 
 ---
 
 ## Analyse détaillée
 
-### 1. Retour à la rentabilité et clôture positive
+### 1. Basse saison — résultat positif malgré tout
 
-La stratégie de consolidation a pleinement fonctionné. En réduisant la production à 400 unités et en écoulant les stocks du cycle 3, l'entreprise a dégagé un résultat net positif de 3 100 €.
+P4 est la pire période saisonnière pour les skis (15% des ventes annuelles). Réaliser un résultat net positif (+1 700 K€) dans ce contexte confirme la solidité financière de l'entreprise.
 
-**Facteur clé :** La légère baisse du prix de vente (115 € → 112 €) a suffi à accélérer l'écoulement des stocks sans dégrader significativement la marge.
+La marge brute à 30,2% montre que les corrections de P3 (hausses de prix) ont un effet durable.
 
-### 2. Coût de production réduit
+### 2. Certification ISO 14001 obtenue ✅
 
-La réduction du volume de production a mécaniquement diminué les coûts variables. Le coût de production passe de 52 000 € (cycle 3) à 41 500 € (cycle 4), améliorant ainsi la marge brute en pourcentage.
+Après 3 périodes d'investissement RSE progressif, la note RSE Globale atteint **0,51** (>0,50), rendant la certification ISO 14001 accessible. La demande a été faite et acceptée pour un coût de **1 500 K€**.
 
-**Marge brute (%) :** 38,2 % — meilleure performance de tous les cycles.
+Cette certification ouvre un nouveau segment de clientèle sensible aux questions environnementales — un avantage compétitif pour les prochaines périodes.
 
-### 3. Trésorerie partiellement reconstituée
+### 3. Expansion de la capacité de production
 
-La trésorerie remonte à 38 700 €, tirée par :
-- Le résultat net positif.
-- La vente des stocks invendus (environ 200 unités × 112 € = 22 400 €).
-- L'absence de nouvel investissement ou emprunt.
+Achat d'une machine MY supplémentaire et embauche de 60 ouvriers. Ces décisions permettent de :
+- Augmenter la capacité Raquette+ pour P4-P6.
+- Réduire les heures supplémentaires (qui coûtaient plus cher que des ouvriers permanents).
+
+**Coût de l'embauche** : 60 ouvriers × 45 K€ = 2 700 K€ en P4 (coût d'embauche + formation).
+
+### 4. Accumulation de stock Ski 2000 — signal d'alarme
+
+Le stock de Ski 2000 passe de 20 543 unités (P3) à **79 541 unités** (P4). La production (104 000 u) dépasse largement les ventes (45 002 u). Ce stock massif deviendra un problème croissant.
+
+**Diagnostic** : la demande pour Ski 2000 est moins forte que prévu, notamment en basse saison. La production était trop ambitieuse.
 
 ---
 
 ## Indicateurs clés
 
-| Indicateur              | Valeur   | Évaluation            |
-|-------------------------|----------|-----------------------|
-| Marge brute (%)         | 38,2 %   | ✅ Meilleure du projet |
-| Résultat net / CA       | +4,6 %   | ✅ Positif            |
-| Part de marché          | 21 %     | ✅ Maintenue          |
-| Stocks restants         | 0        | ✅ Objectif atteint   |
-| Trésorerie finale       | 38 700 € | ✅ Reconstituée       |
+| Indicateur                    | Valeur     | Évaluation         |
+|-------------------------------|------------|--------------------|
+| Marge brute (%)               | 30,2%      | ✅ Maintenu          |
+| Résultat net                  | +1 700 K€  | ✅ Positif en basse saison |
+| ROE                           | 2,77%      | ⚠️ Modéré           |
+| Note RSE Global               | 0,51       | ✅ Certification obtenue ! |
+| Stock Ski 2000                | 79 541 u   | ❌ Accumulation préoccupante |
+| Trésorerie                    | 2 628 K€   | ⚠️ Très tendue       |
 
 ---
 
 ## Conclusion
 
-Le cycle 4 démontre la capacité de l'équipe à **corriger une erreur stratégique** et à redresser rapidement la situation. Clôturer la simulation avec un résultat net positif, une trésorerie reconstituée et des stocks nuls est un résultat satisfaisant compte tenu des difficultés du cycle 3.
+La période 4 marque un jalon important avec l'obtention de la certification ISO 14001 — un succès RSE. Cependant, les signaux d'alerte se multiplient : stock Ski 2000 en forte accumulation et trésorerie quasi-nulle. La stratégie P5 devra absolument intégrer une gestion prudente de la trésorerie et un plan pour écouler le stock Ski 2000 en P6.
 
-Ce cycle illustre une leçon importante : **la résilience et la capacité d'adaptation sont des compétences managériales essentielles**.
-
-➡️ Synthèse globale : [`/analyses/synthese-globale.md`](./synthese-globale.md)
+➡️ Décisions de la période 5 : [`/decisions/cycle-5.md`](../decisions/cycle-5.md)

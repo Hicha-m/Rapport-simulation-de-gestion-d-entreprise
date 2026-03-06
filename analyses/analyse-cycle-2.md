@@ -1,56 +1,62 @@
-# Analyse des Résultats — Cycle 2
+# Analyse des Résultats — Période 2
 
 ---
 
 ## Résultats obtenus
 
-| Indicateur             | Valeur      |
-|------------------------|-------------|
-| Chiffre d'affaires     | 65 700 €    |
-| Coût de production     | 49 300 €    |
-| Marge brute            | 16 400 €    |
-| Charges fixes & marketing | 15 200 €  |
-| Résultat net           | +1 200 €    |
-| Parts de marché        | 21 %        |
-| Trésorerie finale      | 41 300 €    |
+| Indicateur                        | Valeur            |
+|-----------------------------------|-------------------|
+| Chiffre d'affaires                | 57 189 K€         |
+| Coût de production des produits   | 48 696 K€         |
+| Marge brute                       | 8 494 K€ (14,8%)  |
+| Charges commerciales              | 2 500 K€          |
+| Charges administratives           | 4 892 K€          |
+| Résultat net                      | +738 K€           |
+| Trésorerie finale                 | 4 419 K€          |
 
 ---
 
 ## Analyse détaillée
 
-### 1. Retour à la rentabilité
+### 1. Haute saison ski — objectif atteint
 
-Le résultat net de +1 200 € confirme que les ajustements apportés au cycle 2 ont porté leurs fruits. La **légère hausse de la production** a permis de bénéficier d'économies d'échelle, réduisant le coût unitaire de production.
+La période 2 représente 40% des ventes annuelles de skis. Grâce au stock constitué en P1 (74 646 u de Ski Élite), nous avons vendu 194 646 unités de Ski Élite — un record pour la simulation.
 
-**Facteur clé :** La baisse du prix de vente de 120 € à 115 € a stimulé les ventes sans trop dégrader la marge unitaire.
+**Facteur clé** : l'anticipation du stock en P1 était une décision stratégiquement correcte.
 
-### 2. Progression des parts de marché
+### 2. Erreur majeure : tarification de Raquette+
 
-Le doublement du budget marketing (de 5 000 € à 10 000 €) a eu un **impact mesurable** : +3 points de parts de marché (18 % → 21 %). Cela confirme la corrélation entre investissement marketing et visibilité commerciale dans la simulation.
+Le lancement de Raquette+ à **80 €/unité** est la principale erreur de P2. Le coût de production de la raquette (matières premières + main d'œuvre + amortissement machine MY) était d'environ **113 €/unité**. Chaque unité vendue représentait donc une perte de ~33 €.
 
-**Limite :** L'effet marketing est partiellement différé — une partie de l'impact se fera sentir au cycle 3.
+37 000 unités vendues × ~33 €/u = environ **1 221 K€ de perte** absorbée sur cette décision.
 
-### 3. Trésorerie reconstituée
+**Prise de conscience** : il faut toujours vérifier le coût complet de production avant de fixer un prix de vente.
 
-L'emprunt court terme de 10 000 € a permis de sécuriser la trésorerie. La trésorerie finale de 41 300 € offre une marge de manœuvre pour le cycle 3.
+**Correction appliquée** : le prix de Raquette+ a été relevé à 170 € dès P3.
+
+### 3. Résultat net limité malgré un CA record
+
+Le résultat net (+738 K€) est décevant au regard du CA (57 189 K€). L'explication principale est l'erreur de tarification sur Raquette+ et l'augmentation des charges administratives (+2 172 K€ vs P1) liée aux investissements RSE.
+
+### 4. Programme RSE engagé
+
+Investissement de 2 × 2 000 K€ (production éco + QVT) → note RSE globale de 0,41. Ce n'est pas encore suffisant pour la certification (seuil : 0,50), mais c'est une base solide.
 
 ---
 
 ## Indicateurs clés
 
-| Indicateur              | Valeur   | Évaluation       |
-|-------------------------|----------|------------------|
-| Marge brute (%)         | 25,0 %   | ✅ En progression |
-| Résultat net / CA       | +1,8 %   | ✅ Positif        |
-| Part de marché          | 21 %     | ✅ En hausse      |
-| Trésorerie / CA         | 62,9 %   | ✅ Confortable    |
+| Indicateur                    | Valeur    | Évaluation         |
+|-------------------------------|-----------|--------------------|
+| Marge brute (%)               | 14,8%     | ❌ Dégradée vs P1 (erreur Raquette+) |
+| Résultat net                  | +738 K€   | ⚠️ Faible pour une haute saison     |
+| ROE                           | 1,31%     | ❌ Très faible      |
+| Note RSE Global               | 0,41      | ⚠️ En progression  |
 
 ---
 
 ## Conclusion
 
-Le cycle 2 est un succès relatif. L'entreprise est revenue à l'équilibre et a gagné des parts de marché. La question pour le cycle 3 sera de savoir si cette dynamique peut être accélérée sans prendre trop de risques.
+La période 2 est mitigée. Si la stratégie ski est un succès, l'erreur de pricing sur Raquette+ a coûté cher. Cette erreur, reconnue rapidement, sera corrigée en P3. La principale leçon : **calculer le coût complet d'un produit avant toute décision de prix**.
 
-**Risque identifié :** La tentation d'une croissance trop rapide pourrait déstabiliser la trésorerie si la demande ne suit pas.
-
-➡️ Décisions du cycle 3 : [`/decisions/cycle-3.md`](../decisions/cycle-3.md)
+➡️ Décisions de la période 3 : [`/decisions/cycle-3.md`](../decisions/cycle-3.md)

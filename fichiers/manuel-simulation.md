@@ -1,107 +1,163 @@
-# Manuel de Simulation — ARIANE
+# Manuel de Simulation — ARIANE II
 
-> Ce document résume les règles et mécanismes de la simulation de gestion d'entreprise ARIANE utilisée dans le cadre du projet pédagogique.
+> Ce document résume les règles et mécanismes de la simulation de gestion d'entreprise ARIANE II (Gambini Raymond & Tixier Daniel), tels qu'ils ont été appliqués dans le cadre du projet.
 
 ---
 
 ## Présentation générale
 
-La simulation **ARIANE** est un jeu de gestion d'entreprise pédagogique dans lequel plusieurs équipes s'affrontent sur un marché fictif. Chaque équipe dirige une entreprise qui produit et commercialise un produit unique sur un marché concurrentiel.
+La simulation **ARIANE II** est un jeu de gestion d'entreprise pédagogique dans lequel plusieurs équipes s'affrontent sur un marché du matériel de sports d'hiver. Chaque équipe dirige une entreprise industrielle qui fabrique et commercialise jusqu'à trois produits.
 
-La simulation se déroule sur **plusieurs cycles**, chacun représentant une période de gestion (trimestre ou semestre selon la configuration). À chaque cycle, les équipes soumettent leurs décisions et reçoivent les résultats sous forme de rapports financiers et commerciaux.
-
----
-
-## Structure d'un cycle
-
-Chaque cycle comprend les étapes suivantes :
-
-1. **Analyse des résultats du cycle précédent** (comptes de résultat, bilan, parts de marché).
-2. **Prise de décisions** dans les quatre domaines (production, marketing, finance, trésorerie).
-3. **Soumission des décisions** à l'animateur de la simulation.
-4. **Traitement** par le moteur de simulation.
-5. **Publication des résultats** et préparation du cycle suivant.
+La simulation se déroule sur **6 périodes** (trimestres), représentant chacune un trimestre de gestion. À chaque période, les équipes soumettent une trentaine de décisions et reçoivent des rapports financiers et commerciaux détaillés.
 
 ---
 
-## Les quatre domaines de décision
+## Les produits
 
-### 1. Production
+### Ski Élite
+- Produit haut de gamme existant au début du jeu.
+- Matières premières : 80% Fibre + 20% Résine.
+- Saisonnalité : T1=20%, T2=40%, T3=25%, T4=15% des ventes annuelles.
+- Prix initial de référence : 200 €/unité.
+- Machines nécessaires : **MX**.
 
-| Paramètre                  | Description                                                        |
-|----------------------------|--------------------------------------------------------------------|
-| Volume de production       | Nombre d'unités à fabriquer durant le cycle                        |
-| Investissement en machines | Montant investi pour augmenter la capacité de production           |
-| Taux d'utilisation         | Pourcentage d'utilisation de la capacité totale installée          |
+### Ski 2000
+- Nouveau produit bas de gamme pouvant être lancé à tout moment.
+- Matières premières : toute combinaison Fibre/Résine (flexible).
+- Même saisonnalité que Ski Élite.
+- **Règle de lancement** : les ventes atteignent seulement 50% la première période, puis 100% dès la période suivante.
+- Machines nécessaires : **MX** (identiques à Ski Élite).
 
-**Règles importantes :**
-- On ne peut pas produire au-delà de la capacité installée.
-- Les unités non vendues sont mises en stock et génèrent des coûts de stockage.
-- Un investissement en machine augmente la capacité mais implique un amortissement sur plusieurs cycles.
-
-### 2. Commercialisation
-
-| Paramètre              | Description                                                        |
-|------------------------|--------------------------------------------------------------------|
-| Prix de vente unitaire | Prix auquel l'entreprise vend son produit sur le marché            |
-| Budget marketing       | Montant alloué à la publicité et à la promotion                    |
-
-**Règles importantes :**
-- Le prix de vente et le budget marketing influencent la demande et les parts de marché.
-- Un prix trop élevé réduit les ventes ; un prix trop bas réduit la marge.
-- L'effet du marketing est partiellement différé (impact sur les cycles suivants).
-
-### 3. Finance
-
-| Paramètre              | Description                                                        |
-|------------------------|--------------------------------------------------------------------|
-| Emprunt court terme    | Emprunt remboursable sur 1 cycle pour couvrir des besoins immédiats|
-| Emprunt long terme     | Emprunt remboursable sur plusieurs cycles pour financer un investissement |
-
-**Règles importantes :**
-- Les emprunts génèrent des frais financiers (intérêts).
-- Un taux d'endettement trop élevé peut déclencher des pénalités ou des contraintes de financement.
-
-### 4. Trésorerie
-
-La trésorerie est le résultat de tous les flux financiers du cycle :
-- **Encaissements** : ventes, emprunts reçus.
-- **Décaissements** : achats de matières premières, salaires, loyers, remboursements, impôts.
-
-**Règle critique :** Si la trésorerie devient négative, l'entreprise est en cessation de paiement et subit des pénalités importantes.
+### Raquette+
+- Nouveau produit contre-saisonnier (tennis).
+- Matières premières : Fibre + Résine.
+- Saisonnalité inversée par rapport aux skis : T1=15%, T2=20%, T3=40%, T4=25%.
+- **Règle de lancement** : même règle des 50% que Ski 2000.
+- Machines nécessaires : **MY** (machines spécifiques, à acheter obligatoirement).
 
 ---
 
-## Les rapports fournis après chaque cycle
+## Marketing et distribution
 
-1. **Compte de résultat** : chiffre d'affaires, coûts, marge, résultat net.
-2. **Bilan** : actif (immobilisations, stocks, créances, trésorerie) et passif (capitaux propres, dettes).
-3. **Tableau de trésorerie** : détail des flux d'encaissements et de décaissements.
-4. **Rapport de marché** : parts de marché de chaque équipe, prix moyen du marché, demande globale.
+### Force de vente
+- 50 vendeurs au démarrage (12 500 €/vendeur/trimestre en salaires + charges).
+- Frais de déplacement : 10 000 €/vendeur/trimestre.
+- Encadrement fixe : 375 000 €/trimestre.
+- Délai d'efficacité des nouveaux vendeurs : 1 trimestre à 50%, puis 100%.
+- Coût d'embauche : 5 000 €/vendeur. Coût de licenciement : 50 000 €/vendeur.
+
+### Publicité
+- Budget publicité distinct par produit, décidé chaque période.
+- Publicité plus efficace pour les produits bas de gamme (Ski 2000).
+- Budget de référence en P0 : 600 000 €.
+
+### Délai client
+- Tous les clients exigent un **crédit de 90 jours** (1 trimestre).
+- Conséquence : les encaissements du CA d'une période arrivent la période suivante.
+- Possibilité d'**escompter** une partie du CA pour obtenir des liquidités immédiates (avec un coût).
 
 ---
 
-## Indicateurs de performance évalués
+## Production
 
-| Indicateur                | Formule                                           |
-|---------------------------|---------------------------------------------------|
-| Marge brute               | CA − Coût de production                           |
-| Résultat net              | Marge brute − Charges fixes − Charges financières |
-| Part de marché            | Ventes entreprise / Ventes totales marché × 100   |
-| Cash-flow                 | Résultat net + Amortissements                     |
-| Taux d'endettement        | Dettes totales / Capitaux propres × 100           |
-| ROI                       | Résultat net / Capitaux investis × 100            |
+### Matières premières
+| Matière | Prix contractuel (P1-P2) | Prix spot (P3+) | Prix recyclée (P1) |
+|---------|--------------------------|-----------------|---------------------|
+| Fibre   | 5,00 €/u                 | Variable         | 6,00 €/u (+20%)    |
+| Résine  | 1,25 €/u                 | Variable         | 1,625 €/u (+30%)   |
+
+**Évolution des prix contractuels par période :**
+| Période | Fibre (contractuel) | Résine (contractuel) |
+|---------|---------------------|----------------------|
+| P1-P2   | 5,00 €              | 1,25 €               |
+| P3      | 5,00 €              | 1,25 €               |
+| P4      | 5,00 €              | 1,25 €               |
+| P5      | 6,25 €              | 2,25 €               |
+| P6      | 5,00 €              | 1,25 €               |
+
+Prix spot P4 : Fibre=10 €, Résine=3 €. Prix spot P5 : Fibre=12 €, Résine=5 €.
+
+### Machines
+
+| Type | Usage    | Coût d'achat | Capacité | Amortissement |
+|------|----------|--------------|----------|---------------|
+| MX   | Ski Élite + Ski 2000 | 1 250 K€ | ~75 000 u/an | 5% / période |
+| MY   | Raquette+ uniquement | 1 900 K€ | à définir | 5% / période |
+
+### Personnel
+- Ouvriers permanents : 7 500 K€/trimestre (au départ).
+- Heures supplémentaires : coût plus élevé qu'un ouvrier permanent à long terme.
+- Agents de maîtrise : 1 750 K€/trimestre (fixe).
+- R&D : réduit les coûts variables de production.
 
 ---
 
-## Conseils généraux pour réussir la simulation
+## Finance
 
-1. **Lisez attentivement les rapports** après chaque cycle avant de décider.
-2. **Calibrez la production** à la demande estimée, avec une marge de sécurité modérée.
-3. **Investissez en marketing** de manière progressive et continue.
-4. **Anticipez la trésorerie** : simulez les flux avant de valider vos décisions.
-5. **Surveillez la concurrence** : adaptez votre prix et votre marketing en fonction des autres équipes.
-6. **Ne sur-investissez pas** sans avoir une demande suffisante pour justifier l'augmentation de capacité.
+### Emprunts
+- **Court terme** : remboursé à la période suivante.
+- **Long terme** : remboursé sur plusieurs périodes.
+- En P5, les emprunts LT sont gelés (contexte économique difficile, voir newsletter P5).
+
+### Effet escompté
+- Permet d'encaisser une partie du CA de la période courante sans attendre 90 jours.
+- Décision : pourcentage du CA à escompter.
+- Coût : taux d'escompte appliqué (P1-P3 : 2,25%, P4 : 2,70%, P5 : 5,40%, P6 : 2,70%).
+
+### Taux d'intérêt par période
+| Période | CT   | LT   | Découvert | Escompte |
+|---------|------|------|-----------|----------|
+| P1      | 2,5% | 2,5% | 5,0%      | 2,25%    |
+| P2      | 2,5% | 2,5% | 5,0%      | 2,25%    |
+| P3      | 3,0% | 3,0% | 6,0%      | 2,70%    |
+| P4      | 3,0% | 3,0% | 6,0%      | 2,70%    |
+| P5      | 6,0% | N/A  | 12,0%     | 5,40%    |
+| P6      | 3,0% | 3,0% | 6,0%      | 2,70%    |
+
+---
+
+## RSE — Responsabilité Sociétale de l'Entreprise
+
+Disponible à partir de la **période 2**.
+
+### Les 3 axes d'investissement
+1. **Production Éco-responsable** : investissement minimum recommandé de 2 000 K€/période.
+   - Réduit les émissions, améliore le recyclage des déchets.
+2. **Matières Premières Recyclées** : surcoût de 20% pour la Fibre et 30% pour la Résine.
+   - Contribue à la note RSE et ouvre un segment de clientèle "vert".
+3. **Qualité de Vie au Travail (QVT)** : investissement minimum recommandé de 2 000 K€/période.
+   - Réduit l'absentéisme et les coûts variables de production.
+
+### Certification ISO 14001
+- **Disponible à partir de P4**.
+- Condition : **Note RSE Global ≥ 0,50**.
+- Coût de la demande : 1 500 K€ (si note ≥ 0,5) ou 250 K€ forfaitaire (si note < 0,5).
+- Coût de maintien : 1 500 K€/période.
+- La certification peut être **perdue** si la note repasse sous 0,5.
+- Bénéfice : accès à un nouveau segment de clientèle sensible à l'environnement.
+
+---
+
+## Rapports fournis après chaque période
+
+1. **Compte de résultat** : chiffre d'affaires, coûts, marge brute, résultat net.
+2. **Bilan** : actif (machines, stocks MP et PF, créances, trésorerie) et passif (capitaux propres, dettes).
+3. **Tableau de trésorerie** : détail des encaissements et décaissements.
+4. **Rapport de marché** : ventes par produit, stocks, indicateurs RSE.
+5. **Newsletter de conjoncture** : informations sur l'économie générale et les taux.
+
+---
+
+## Indicateurs clés utilisés
+
+| Indicateur            | Formule                                               |
+|-----------------------|-------------------------------------------------------|
+| Marge brute           | CA − Coût de production des produits vendus           |
+| Résultat net          | Marge brute − Charges commerciales − Charges admin    |
+| ROE                   | Résultat net / Capitaux propres × 100                 |
+| Fonds de roulement    | Capitaux permanents − Actif immobilisé                |
+| BFR                   | Stocks + Créances clients − Dettes fournisseurs       |
+| Note RSE Global       | Moyenne pondérée des 4 notes RSE                      |
 
 ---
 

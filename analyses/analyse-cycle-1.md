@@ -1,56 +1,56 @@
-# Analyse des Résultats — Cycle 1
+# Analyse des Résultats — Période 1
 
 ---
 
 ## Résultats obtenus
 
-| Indicateur             | Valeur      |
-|------------------------|-------------|
-| Chiffre d'affaires     | 58 000 €    |
-| Coût de production     | 46 000 €    |
-| Marge brute            | 12 000 €    |
-| Charges fixes & marketing | 14 500 €  |
-| Résultat net           | −2 500 €    |
-| Parts de marché        | 18 %        |
-| Trésorerie finale      | 32 500 €    |
+| Indicateur                        | Valeur            |
+|-----------------------------------|-------------------|
+| Chiffre d'affaires                | 37 820 K€         |
+| Coût de production des produits   | 30 562 K€         |
+| Marge brute                       | 7 258 K€ (19,2%)  |
+| Charges commerciales              | 2 200 K€          |
+| Charges administratives           | 2 720 K€          |
+| Résultat net                      | +1 566 K€         |
+| Trésorerie finale                 | 6 527 K€          |
 
 ---
 
 ## Analyse détaillée
 
-### 1. Résultat net négatif
+### 1. Lancement de Ski 2000 — succès immédiat
 
-Le résultat net de −2 500 € s'explique par une **sous-estimation des charges fixes**. Les coûts liés aux loyers, salaires et amortissements représentaient une part plus importante que prévu, absorbant entièrement la marge brute.
+Le lancement de Ski 2000 est la décision phare de P1. Les 20 000 unités produites ont été entièrement vendues, validant l'intérêt du marché pour cette gamme bas de gamme à 170 €/unité.
 
-**Pistes d'amélioration :** Mieux lire le compte de résultat prévisionnel et intégrer tous les postes de charges dès le début.
+**Enseignement** : la règle de "50% de ventes au lancement" a joué en notre faveur — même à 50% de la demande normale, la totalité de notre production réduite (20 000 u) a été absorbée.
 
-### 2. Parts de marché modestes (18 %)
+### 2. Constitution de stock pour P2
 
-Avec un budget marketing de seulement 5 000 €, notre visibilité sur le marché était limitée. Les concurrents ayant investi davantage ont capté une plus grande part de la demande.
+La stratégie de constituer un stock important de Ski Élite (74 646 unités en fin P1) s'avère être une décision excellente. P2 sera la haute saison ski (40% des ventes annuelles) et ce stock permettra de répondre à la demande sans contrainte de capacité de production.
 
-**Pistes d'amélioration :** Augmenter significativement le budget marketing dès le cycle 2.
+**Décision correcte** : anticiper la saisonnalité est crucial dans ce type d'industrie.
 
-### 3. Trésorerie tendue
+### 3. Trésorerie limitée mais positive
 
-La trésorerie finale de 32 500 € représente un niveau acceptable, mais le parcours a été serré. Le besoin en fonds de roulement a été sous-estimé, notamment en raison des délais de paiement clients.
+La trésorerie (6 527 K€) est faible, notamment parce que les créances clients (délai 90 jours) immobilisent 37 820 K€ de CA. Le BFR est de 39 925 K€ alors que le fonds de roulement est de 46 452 K€.
 
-**Pistes d'amélioration :** Prévoir un emprunt court terme de précaution pour les prochains cycles.
+**En rétrospective** : un emprunt LT en P1 aurait permis de produire davantage de skis pour P2. C'est une opportunité manquée.
 
 ---
 
 ## Indicateurs clés
 
-| Indicateur              | Valeur   | Évaluation       |
-|-------------------------|----------|------------------|
-| Marge brute (%)         | 20,7 %   | ⚠️ Insuffisante  |
-| Résultat net / CA       | −4,3 %   | ❌ Négatif        |
-| Part de marché          | 18 %     | ⚠️ Modeste        |
-| Trésorerie / CA         | 56 %     | ✅ Acceptable     |
+| Indicateur                    | Valeur    | Évaluation         |
+|-------------------------------|-----------|--------------------|
+| Marge brute (%)               | 19,2%     | ⚠️ Faible — attendu en basse saison |
+| Résultat net                  | +1 566 K€ | ✅ Positif          |
+| ROE                           | 2,85%     | ⚠️ Modeste          |
+| Trésorerie                    | 6 527 K€  | ⚠️ Tendue            |
 
 ---
 
 ## Conclusion
 
-Le cycle 1 a servi d'apprentissage. La stratégie initiale trop prudente n'a pas permis de couvrir les charges fixes. La priorité pour le cycle 2 est d'augmenter le chiffre d'affaires (via le marketing et un prix plus compétitif) et de mieux anticiper les coûts.
+La période 1 pose les bases d'une stratégie diversifiée. Le lancement de Ski 2000 est un succès et le stock constitué pour P2 est un actif stratégique. La principale leçon rétroactive est l'opportunité manquée d'un emprunt LT pour maximiser la production en haute saison.
 
-➡️ Décisions du cycle 2 : [`/decisions/cycle-2.md`](../decisions/cycle-2.md)
+➡️ Décisions de la période 2 : [`/decisions/cycle-2.md`](../decisions/cycle-2.md)
