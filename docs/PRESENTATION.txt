@@ -1,0 +1,135 @@
+Présentation
+
+Les entreprises sont en concurrence sur le marché du ski de haute technicité. L’évolution technologique permet de lancer des skis de même technologie dans des compositions de matières premières, des caractéristiques de performance et des facteurs de coûts, très différents.
+Cette même évolution technique permet, face à la saisonnalité des ventes qui pose régulièrement des problèmes de financement (notamment des stocks), d’envisager une diversification contre-saisonnière dans les raquettes de tennis, à condition d’acquérir de nouvelles machines spécifiques.
+Ariane soulève les problèmes rencontrés par les entreprises opérant dans un univers très concurrentiel dans le choix d’un portefeuille de produits présentant des caractéristiques de forte saisonnalité ainsi que dans les situations où les risques d’auto cannibalisation sont importants. A la compétitivité par l’innovation s’ajoutent tous les facteurs de compétitivité par les coûts présentés par la gestion de la production.
+Décisions
+
+L’entreprise traduit sa politique par la prise d’une trentaine de décisions portant sur la production (quantités fabriquées, achats de matières premières, gestion des parcs des immobilisations, qualité des produits, gestion de la main d’œuvre, etc.) la commercialisation (lancement de nouveaux produits, force de vente, publicité) et la finance (emprunt, durée, augmentation de capital, etc.).
+La simulation Ariane est adaptée au niveau Master et MBA
+
+---
+
+Présentation
+
+Avec la simulation Artémis les participants gèrent une entreprise industrielle confrontée à la fois aux exigences traditionnelles de rentabilité des actionnaires et à la montée des préoccupations liées au développement durable.
+L’entreprise qui commercialise un produit dans l’industrie du verre a la possibilité d’opter pour une stratégie de domination par les coûts ou pour différentes stratégies de différenciation (différenciation traditionnelle fondée sur la qualité et l’image des produits et différenciation « verte »). Dès la première série de décision, l’entreprise peut en outre choisir de diversifier sa gamme et de lancer un nouveau produit délibérément positionné dans une optique de développement durable. Celui-ci est obligatoirement fabriqué par des usines de nouvelle génération (moins consommatrice d’énergie et plus respectueuse de l’environnement en termes de rejet de CO2 et de recyclage).
+Au cours de la simulation, les entreprises sont confrontées à une modification de la législation et à un durcissement de la réglementation portant sur les émissions de CO2. Elles doivent alors procéder à des arbitrages qui peuvent les conduire à négocier (sur un marché spécifique ou directement entre entreprises) des contrats d’achat/vente de « droits d’émission CO2 » ou à modifier leur structure de production pour respecter les quotas d’émission.
+Décisions
+
+L’entreprise met en œuvre sa stratégie par le biais d’une trentaine de décisions portant sur la production (quantités fabriquées, achats de matières premières, recherche et développement, investissement qualité, gestion des parcs des immobilisations) la commercialisation (force de vente, communication, escompte commercial et prix de vente), la finance (emprunt CT et LT, escompte bancaire et gestion de la trésorerie), le développement durable (utilisation de matières premières recyclables, investissement développement durable, investissement développement humain, achat/vente de droits d’émission de CO2 et emprunt « vert » bonifié).
+La simulation Artémis est adaptée au niveau Master et MBA.
+
+---
+
+Un produit de grande consommation sur un marché…
+Avec un produit et un marché, Chadora constitue un bon exercice d’initiation à la gestion d’une entreprise. C’est un jeu simple qui se focalise sur les mécanismes fondamentaux de la gestion. Il est parfaitement adapté aux séminaires d’intégration.
+Présentation
+Chadora est un jeu d’entreprise qui simule, sur un marché, une industrie composée d’un certain nombre de firmes concurrentes, qui fabriquent et vendent un produit de grande consommation sur un marché national. Ce produit, fabriqué avec un seul processus de production, est composé d’une seule matière première. Les canaux de distributions sont constitués par des grossistes et des détaillants.
+Décisions
+La simulation contient vingt décisions qui portent sur la politique commerciale (prix de vente, conditions de vente à crédit, publicité, force de vente, etc.) ; la politique de production (volume production, achats matières premières, investissements, Recherche & Développement, etc.) ; la politique financière (emprunt, taux d’intérêt, dividendes versés aux actionnaires,
+etc.) ; les décisions prévisionnelles (prévisions de chiffre d’affaires ; trésorerie et résultat).
+La simulation Chadora est adaptée au niveau Licence.
+
+---
+
+Présentation
+
+Eurosim met en scène des entreprises industrielles des pays de l’Union Européenne. Le processus de production – distribution de ces entreprises, ainsi que les conditions économiques différentes des pays d’origine créent des occasions de partenariat qui se réalisent à travers la négociation et la coopération.
+La dimension principale d’Eurosim réside dans l’importance accordée aux négociations entre firmes de pays différents. Pour avoir accès à d’autres débouchés que leur marché domestique, les dirigeants doivent passer des contrats d’exportation (de produits finis ou intermédiaires) avec des partenaires extérieurs. De la même manière, ils peuvent importer des produits en provenance de toutes les autres firmes simulées. Ces contrats d’exportation ou d’importation peuvent prendre des formes différentes, de la fourniture simple de produits à la mission de représentation sous licence.
+Par ailleurs, une attention particulière est portée à la politique de qualité menée par chaque firme. La certification du produit est accordée par l’Agence Nationale de la Qualité.
+Décisions
+
+Eurosim contient une trentaine de décisions portant sur l’approvisionnement en matières, la fabrication et/ou la sous-traitance de produits finis, la commercialisation des produits (prix de vente, force de vente, publicité, certification, etc.), l’investissement en matériel de fabrication, le choix de la technologie de production, l’effort de recherche et développement, les ressources financières à court et long terme. Enfin, les décisions mettant en jeu des actions de partenariat sont administrées dans le cadre des contrats.
+La simulation est adaptée au niveau Master et MBA.
+
+---
+
+Présentation
+
+Inntek représente un secteur électronique, composée exclusivement de P.M.E. (petites et moyennes entreprises) qui définissent et appliquent une stratégie de croissance fondée sur le développement d’un portefeuille de produits technologiques, dans un environnement fortement concurrentiel.
+L’entreprise peut fabriquer et commercialiser un portefeuille de cinq produits. Le modèle économique est fondé sur le principe de la conformité de la morphologie d’une entreprise avec la morphologie de ses produits.
+La morphologie se définit comme l’identité de la marque de l’entreprise qui se décompose selon six dimensions :
+Recherche / Management / Marketing / Production / Distribution / International
+Décisions
+
+L’entreprise prendra près de soixante décisions dictées par des impératifs stratégiques et par le souci de se doter d’une morphologie en accord avec les produits qu’elle entend commercialiser. Ces décisions portent sur la recherche ((séminaires internationaux, chercheurs, dépenses R&D, etc.), le marketing (publicité, assistance technique, brevet, vendeurs, formation, rémunération, promotion internationale, etc.), la production (quantité produite, fournisseurs matières premières, choix structure de coût, etc.), les ressources humaines (embauche, formation, promotion, etc.), la finance (emprunt bancaire, emprunt recherche, dividende, augmentation de capital, etc.).
+La simulation Inntek est adaptée au niveau Master et MBA
+
+soit 28 décisions par période.
+
+---
+
+Une filiale d’un groupe cosmétique international en charge de la commercialisation de trois produits sur un marché
+Kallystée représente une filiale commerciale d’un groupe cosmétique international dont le leadership s’est toujours affirmé au travers de ses équipes de recherche et de son savoir-faire marketing. Elle simule une entreprise qui est en charge de la commercialisation, en grande distribution, de trois produits sur un marché . Le niveau de complexité de la simulation est adapté aux étudiants de premier cycle universitaire.
+
+
+Présentation
+La Groupe auquel appartient la firme a lancé une crème de soins aux LPX en distribution sélective. LPX est une marque déposée par le Groupe qui concerne une famille de formules issues de sa R&D. La firme simulée a été créée pour commercialiser, en grande distribution, une gamme de produits aux LPX. Ces produits se veulent d’excellente qualité.
+La firme ne fabrique pas directement les produits qu’elle vend. De ce fait elle n’a pas d’ouvriers ni d’équipements de fabrication. Les produits qu’elle vend, et qu’elle a elle-même conçus, sont fabriqués à sa demande par une autre filiale spécialisée du Groupe, à laquelle elle passe des contrats à chaque période. L’entreprise est soumise à un strict environnement règlementaire.
+Décisions
+La simulation contient près de quarante décisions qui portent sur la politique marketing et commerciale (nom des produits, prix de vente, référencement, ristournes, publicité, promotion, PLV et merchandising, force commerciale, études, etc.) ; la politique d’approvisionnement (achat des produits) ; la politique R&D (qualité des produits) ; la politique financière (emprunts, escompte) ; les décisions prévisionnelles (prévisions de chiffre d’affaires ; trésorerie et résultat).
+La simulation Kallystée est adaptée au niveau Licence.
+
+---
+
+Présentation
+
+MacSim est un logiciel de simulation constituant un outil pédagogique pour des enseignements de politique économique en macroéconomie européenne et internationale (MacSim 2). Son principe est de placer les participants en situation de « décideurs publics » (gouvernement et banque centrale). Les économies nationales simulées correspondent, de façon stylisée, à un certain nombre de pays de l’Union Européenne (Allemagne, France, Belgique, Italie, etc.) et d’autres pays tels que le Japon, les Etats-Unis.MacSim est un logiciel de simulation constituant un outil pédagogique pour des enseignements de politique économique en macroéconomie européenne et internationale (MacSim 2). Son principe est de placer les participants en situation de « décideurs publics » (gouvernement et banque centrale). Les économies nationales simulées correspondent, de façon stylisée, à un certain nombre de pays de l’Union Européenne (Allemagne, France, Belgique, Italie, etc.) et d’autres pays tels que le Japon, les Etats-Unis.
+
+Permet de procéder à des simulations macroéconomiques. C’est un puissant simulateur qui permet aux participants d’assimiler des mécanismes de macroéconomie ouverte et d’économie internationale et, surtout, de comprendre l’intérêt et les enjeux de la construction européenne et de la coordination des politiques économiques.
+MacSim illustre les avantages d’une coordination simultanément monétaire et budgétaire dans le cas où les économies simulées subissent un choc externe (de demande, de prix ou de change) inévitablement asymétrique du fait de degrés d’ouverture très divers de ces économies au « reste du Monde ».
+Décisions
+
+Pour chaque économie, les participants peuvent utiliser onze leviers de politiques macro-économiques :
+
+1. Emploi dans les Administrations Publiques
+2. Ecart salarial moyen des emplois publics par rapport aux emplois privés
+3. Demande globale réelle des Administrations Publiques
+4. Prestations sociales reçues par les ménages
+5. Taux moyen d’imposition directe du revenu des ménages
+6. Taux de cotisations sociales des employés
+7. Taux de cotisations sociales des employeurs
+8. Taux moyen d’imposition sur les bénéfices des entreprises
+9. Taux de subvention des entreprises
+10. Taux moyen de TVA
+11.Taux moyen de taxation des importations en provenance de chaque pays ou du Reste du Monde
+
+La simulation Macsim est adaptée au niveau Master 2 en économie
+
+---
+
+Présentation
+
+Mirage est une simulation de synthèse d’une grande richesse combinatoire. Elle met en avant la stratégie (diversification, alliances, compétition par l’innovation et les coûts) et nécessitent la maîtrise de toutes les fonctions de management (stratégie, marketing, production, ressources humaines, partenariat, finance avec un module boursier intégré).
+Dans Mirage, les entreprises opèrent dans un contexte assez difficile (textile avec importations déstabilisatrices). Elles peuvent lancer trois produits sur deux canaux (détaillants traditionnels et grandes surfaces) pour un total de six couples produits-marchés différents en prix, qualité, production…).
+Le manuel est très complet, mais facile d’accès grâce à un index systématique. Le niveau des fonctions de gestion est assez avancé.
+Décisions
+
+La simulation contient près de 75 décisions qui portent sur tous les pôles de l’entreprise. Le pôle production (niveau de production, recours à la sous-traitance, politique d’achat de plusieurs types de matières premières avec option de couverture à terme, investissement dans l’appareil productif, etc.). Le pôle ressources humaines (gestion de la main d’œuvre, absentéisme, congés payés, variation du pouvoir d’achat, etc.). Le pôle marketing et commercial (gestion de la force de vente, publicité, remises commerciales, etc.). Le pôle finance (emprunts, dividendes, escompte, augmentation de capital, cours de bourse, O.P.A., etc.). Enfin les décisions prévisionnelles (chiffre d’affaires, résultat net, trésorerie).
+
+La simulation Mirage est adaptée au niveau Master et MBA.
+
+---
+
+Une petite entreprise qui ne connait pas la crise
+Pizzéda est un jeu d’entreprise très simple qui a pour objectif de faire découvrir le monde d’une petite entreprise et d’acquérir des compétences dans le domaine de la gestion.
+Présentation
+L’entreprise produit et vend des pizzas à emporter 21 jours par mois. Au départ, le patron est seul et se charge de la production et vente des pizzas. Pour la fabrication des pizzas, l’entreprise peut utiliser deux types de fours, électrique ou à bois. L’utilisation d’un four à bois permet d’augmenter la qualité des produits. L’entreprise ne propose qu’un seul type de pizza mais peut utiliser deux types de matières premières (standard ou supérieure).
+Décisions
+La simulation contient onze décisions qui portent sur la politique commerciale (prix de vente, publicité, force de vente, étude de marché) ; la politique de production (volume production, qualité, investissements, recrutement, salaires, etc.).
+La simulation Pizzéda est adaptée au niveau secondaire (Lycée Terminale) et Licence 1.
+
+---
+
+Deux produits sur le secteur industriel et deux marchés
+Polytech est une entreprise à composante industrielle, ce qui suppose des processus de fabrication complexes, des investissements lourds, la gestion d’une main d’œuvre importante, une gestion des stocks rigoureuse. Avec deux produits sur deux marchés (dont un à l’export), Polytech soulève les problèmes liés à la gestion des cycles de vie des produits , le duo innovation – cannibalisation , la gestion de production, à la productivité , à l’ouverture des marchés à l’export.
+
+
+Présentation
+Polytech représente une industrie, composée exclusivement de P.M.I. (petites et moyennes industries) qui fabriquent et commercialisent un produit élaboré à partir d’un alliage à base d’acier et assimilable à un profilé métallique simple.
+Un certain nombre de fabricants locaux se partagent le marché sur le plan régional. La seule concurrence extérieure à laquelle ils doivent faire face est celle d’un grossiste importateur qui détient à peu près 20 % du marché, ce qui lui permet parfois de “brader” les prix. Le produit mis au point et standardisé par les grands groupes sidérurgiques, est arrivé en phase de maturité. Afin d’assurer
+leur croissance, les firmes seront amenées à fabriquer un deuxième produit et conquérir un marché à l’exportation.
+Décisions
+L’entreprise traduit sa politique par la prise d’une trentaine de décisions portant sur la production (quantités fabriquées, politique d’achat, gestion des parcs des immobilisations, gestion complexe de la main d’œuvre, etc.) la commercialisation (force de vente, salaires et commissions, quota, publicité), la finance (emprunt, durée, etc.) et les prévisions .
+La simulation Polytech est adaptée au niveau Licence 3 et Master 1.
